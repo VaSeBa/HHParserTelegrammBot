@@ -1,0 +1,6 @@
+venv/
+env/
+.env/
+*.env
+*.venv
+api_token.py
